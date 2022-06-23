@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome Human!!👋
+<!-- 
+##### A little about me 😊
+I am an animated fullstack developer(`PERN`,`MERN`). Stronger on the backend.
+ -->
 
 <!--
 **tdogubo/tdogubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
